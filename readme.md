@@ -60,16 +60,4 @@ PLATFORM=dev
 | GET    | /admin/metrics       | View visit metrics (admin only)               |        |
 | POST   | /admin/reset         | Reset users & hits (dev only)                 |        |
 
----
-
-## 🤝 Contributing
-
-This project is built as a **learning exercise**.
-Contributions and improvements are welcome!
-
----
-
-## 📄 License
-
-MIT License
 
